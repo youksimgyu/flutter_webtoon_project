@@ -5,6 +5,7 @@ void main() {
   runApp(const App());
 }
 
+// 테스트
 class App extends StatelessWidget {
   const App({Key? key}) : super(key: key);
 
