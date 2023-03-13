@@ -51,7 +51,6 @@
 	<key>LSApplicationQueriesSchemes</key>
     <array>
       <string>https</string>
-      <string>sms</string>
     </array>
 </dict>
 </plist>
